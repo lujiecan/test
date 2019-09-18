@@ -1,2 +1,2 @@
 # git_test
-test for git teach
+test for git study
